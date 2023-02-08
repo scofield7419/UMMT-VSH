@@ -1,5 +1,4 @@
 # Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination
-
 ---
 
 
