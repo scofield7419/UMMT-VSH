@@ -1,2 +1,0 @@
-# UMMT-VSH
-UMMT-VSH
