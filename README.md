@@ -1,6 +1,9 @@
-# Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination
----
+# UMMT-VSH
 
+Code for the ACL 2023 paper [Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination](https://arxiv.org)
+
+
+---
 
 ### Step 0.  install prerequisites
 ```
